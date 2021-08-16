@@ -291,3 +291,6 @@ pip-log.txt
 
 # Dependency file
 *.d
+.vs/
+Xfx_cryptopp.nuspec
+Xfx_cryptopp.props
